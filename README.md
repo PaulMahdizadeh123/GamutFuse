@@ -45,8 +45,7 @@ Two practical issues kept coming back whenever we combined a color photo with an
 ```
 
 ## License
-
-Academic and other non-commercial research use is free, under the PolyForm Noncommercial License 1.0.0 (see `LICENSE`). For any commercial or industrial use, ask us first; it needs our written permission.
+MIT License
 
 ## Contact
 Mohammad Mahdizadeh (Paul Mahdizadeh), m.mahdizadeh@newuu.uz
