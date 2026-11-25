@@ -22,15 +22,7 @@ Two practical issues kept coming back whenever we combined a color photo with an
 ## Numbers
 
 **EPFL RGB–NIR (143 test pairs, ten fusion methods)**
-
-- Pairs that start 14 to 68 pixels apart end up 2.6 to 5.6 pixels apart on average, and 75 % to 79 % of them land within 3 pixels. None of the six registration methods we tested against it did better, at any level.
-- Misaligned inputs hardly move our fusion scores (0.7 % at most). Methods built for aligned inputs drop by 11 % to 57 %. Our MI, VIF and Q<sup>AB/F</sup> are the highest of the ten.
-- When the inputs are already aligned, we have the top MI (4.737) and tie for the top Q<sup>AB/F</sup> (0.599).
-- Color: zero out-of-range pixels, zero opponent hue error, and the smallest CIELAB hue error and CIEDE2000 chroma and hue errors. Methods that swap the Y channel push up to 8.7 % of the pixels out of range.
-
 **Thermal infrared (LLVIP, RoadScene, TNO)**
-
-- Our hue error never goes above 0.017°, which is lower than every other method.
 
 
 ## Citing
