@@ -21,9 +21,10 @@ Two practical issues kept coming back whenever we combined a color photo with an
 
 ## Numbers
 
-**EPFL RGB–NIR (143 test pairs, ten fusion methods)**
+**EPFL RGB–NIR (143 test pairs, ten fusion methods)
 
-**Thermal infrared (LLVIP, RoadScene, TNO)**
+
+**Thermal infrared (LLVIP, RoadScene, TNO)
 
 
 ## Citing
