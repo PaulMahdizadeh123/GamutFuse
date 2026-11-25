@@ -45,7 +45,7 @@ Give the color back with a formula. Each pixel keeps as much of its original chr
 
 ```bibtex
 @article{mahdizadeh2026gamutfuse,
-  title   = {{GamutFuse}: Beyond {Y}-Channel Substitution in {RGB}--Infrared Fusion with Registration and Hue-Preserving Color Reconstruction},
+  title   = {GamutFuse: Beyond Y-Channel Substitution in RGB--Infrared Fusion with Registration and Hue-Preserving Color Reconstruction},
   author  = {Mahdizadeh, Mohammad and Mirzayev, Temurbek},
   year    = {2026},
   note    = {Manuscript under review}
