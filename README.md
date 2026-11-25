@@ -19,7 +19,6 @@ Two practical issues kept coming back whenever we combined a color photo with an
 - **Merge the brightness.** A network does this part. It mixes a U-Net with the early layers of a ConvNeXt-TinyGamutFuse
 The manuscript is in review at the moment. We will upload the code and the trained models here after it is accepted.
 
-This repository belongs to our paper GamutFuse: Beyond Y-Channel Substitution in RGB–Infrared Fusion with Registration and Hue-Preserving Color Reconstruction
 
 Why we built it
 Two practical issues kept coming back whenever we combined a color photo with an infrared one.
